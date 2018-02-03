@@ -1,2 +1,2 @@
-# CheepRX
-Webcrawler Mangohacks 18
+# Mango Hacks Workshops
+Mangohacks 18
